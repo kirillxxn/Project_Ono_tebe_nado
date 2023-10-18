@@ -10,7 +10,10 @@ html, body {
 }
 
 .header {
-    padding: 91px 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 92px;
+    padding-bottom: 96px;
     display: flex; 
 
 }
