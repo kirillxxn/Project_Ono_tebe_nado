@@ -13,13 +13,13 @@ html, body {
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 92px;
-    padding-bottom: 76px;
+    padding-bottom: 66px;
     display: flex; 
 
 }
 
 .header__links-list {
-    gap: 33px;
+    gap: 30px;
     padding-top: 42px;
     display: flex;
     color: #000;
@@ -30,7 +30,7 @@ html, body {
     line-height: normal;
     padding-top: 43px;
     padding-bottom: 45px;
-    padding-right: 0px;
+
 }
 
 .header__link_active {
