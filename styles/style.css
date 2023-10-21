@@ -168,7 +168,10 @@ html, body {
     font-weight: 700;
     line-height: 100%;
     text-transform: uppercase;
-    padding-top: 15px;
+    padding-top: 13px;
+    margin-left: 292px;
+    
+    
 }
 
 .no-letter-spacing {
@@ -178,6 +181,7 @@ html, body {
     font-weight: 700;
     line-height: 100%;
     text-transform: uppercase;
+    
 }
 
 .cover__description {
