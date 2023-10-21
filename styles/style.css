@@ -20,8 +20,6 @@ body {
 }
 
 .header__links-list {
-    gap: 30px;
-    padding-top: 42px;
     display: flex;
     color: #000;
     font-family: Raleway, sans-serif;
@@ -31,6 +29,7 @@ body {
     line-height: normal;
     padding-top: 43px;
     padding-bottom: 45px;
+    gap: 30px;
     white-space: nowrap;
 
 }
@@ -162,7 +161,6 @@ body {
 
 .aligned-text_right {
     width: 1340px;
-    padding-top: 10px;
     color: #FFF;
     text-align: right;
     font-family: Raleway, sans-serif;
@@ -229,7 +227,6 @@ body {
 }
 
 .lots {
-    margin: auto;
     width: 1340px;
     height: 579px;
     margin: 180px 50px;
@@ -459,7 +456,6 @@ body {
     padding-top: 21px;
 }
 .footer {
-    margin: auto;
     display: flex;
     width: 1340px;
     height: 97px;
@@ -496,7 +492,6 @@ body {
 }
 
 .footer__social-list {
-    display: flex;
     width: 240px;
     height: 48px;
     gap: 48px;
