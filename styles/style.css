@@ -16,7 +16,6 @@ body {
     padding-top: 92px;
     padding-bottom: 90px;
     display: flex; 
-
 }
 
 .header__links-list {
@@ -486,12 +485,12 @@ body {
 }
 
 .footer__menu-link {
-    text-decoration: none;
     text-decoration: underline;
     text-underline-offset: 3px;
 }
 
 .footer__social-list {
+    display: flex;
     width: 240px;
     height: 48px;
     gap: 48px;
