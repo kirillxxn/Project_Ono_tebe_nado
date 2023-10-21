@@ -1,6 +1,7 @@
 * {
     margin: 0 auto;
     padding: 0;
+    
 }
 
 html, body {
@@ -94,7 +95,7 @@ html, body {
     margin: auto;
 }
 .cover {
-    background-image: url(/images/cover.jpg);
+    background-image: url(../images/cover.jpg);
     background-size: 100% auto;
     background-position: right center;
     background-repeat: no-repeat;
