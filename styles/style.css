@@ -83,6 +83,7 @@ html, body {
 }
 
 .address_info {
+    width: 240px;
     color: #000;
     font-family: Raleway, sans-serif;
     font-size: 18px;
