@@ -1,7 +1,7 @@
 * {
     margin: 0 auto;
     padding: 0;
-    
+    border: 1px solid red;
 }
 
 html, body {
@@ -82,13 +82,14 @@ html, body {
 }
 
 .address_info {
-    width: 240px;
     color: #000;
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: 24.3px; 
+    white-space: nowrap;
+    
 
 }
 .container {
@@ -280,7 +281,7 @@ html, body {
 }
 
 .card_type_film {
-    background-image: url(/images/card-lot-01.jpg);
+    background-image: url(../images/card-lot-01.jpg);
     width: 430px;
     height: 450px;
     background-repeat: no-repeat;
@@ -321,7 +322,7 @@ html, body {
 }
 
 .card_type_book {
-    background-image: url(/images/card-lot-02.jpg);
+    background-image: url(../images/card-lot-02.jpg);
     width: 430px;
     height: 450px;
     background-repeat: no-repeat;
@@ -361,7 +362,7 @@ html, body {
 }
 
 .card_three {
-    background-image: url(/images/card-lot-03.jpg);
+    background-image: url(../images/card-lot-03.jpg);
     width: 430px;
     height: 450px;
     background-repeat: no-repeat;
