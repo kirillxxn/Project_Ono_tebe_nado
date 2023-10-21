@@ -1,7 +1,7 @@
 * {
     margin: 0 auto;
     padding: 0;
-    border: 1px solid red;
+    
 }
 
 html, body {
@@ -32,6 +32,7 @@ html, body {
     line-height: normal;
     padding-top: 43px;
     padding-bottom: 45px;
+    white-space: nowrap;
 
 }
 
