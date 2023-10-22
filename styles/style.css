@@ -1,6 +1,5 @@
 * {
-    margin: 0 auto;
-    padding: 0;
+   
     border: 1px solid red;
 }
 
@@ -12,9 +11,12 @@ body {
 
 .header {
     margin: 92px auto;
-    width: 1340px;
-    height: 109px;
+    min-width: 1340px;
+    min-height: 109px;
     display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+
 }
 
 .header__links-list {
@@ -29,7 +31,7 @@ body {
     padding-bottom: 45px;
     gap: 30px;
     white-space: nowrap;
-
+    
 }
 
 .header__link_active {
@@ -90,6 +92,8 @@ body {
 
 }
 .cover {
+    min-width: 1440px;
+    min-height: 757px;
     box-sizing: border-box;
     background-image: url(../images/cover.jpg);
     background-size: 100% auto;
@@ -127,8 +131,8 @@ body {
     letter-spacing: 30px;
     text-transform: uppercase;
     z-index: 1;
-    margin-top: 165px;
-    margin-left: 50px;
+    margin-top: 160px;
+    margin-left: 43px;
     
     
 }
@@ -146,6 +150,10 @@ body {
     z-index: 1;
     padding-top:10px;
     padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 65px;
+    
+    
     
 }
 
@@ -162,6 +170,8 @@ body {
 }
 
 .aligned-text_right {
+    width: 100%;
+    justify-content: end;
     color: #FFF;
     text-align: right;
     font-family: Raleway, sans-serif;
@@ -171,6 +181,11 @@ body {
     line-height: 100%;
     text-transform: uppercase;
     z-index: 1;
+    padding-bottom: 135px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    
 }
 
 .no-letter-spacing {
