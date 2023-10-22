@@ -35,7 +35,7 @@ html, body{
     line-height: normal;
     padding-top: 43px;
     padding-bottom: 45px;
-    gap: 33px;
+    gap: 35px;
     white-space: nowrap;
     padding-left:50px;
     
@@ -62,7 +62,7 @@ html, body{
 }
 
 .header_logo {
-padding-right: 72px;
+padding-right: 70px;
 
 }
 
