@@ -61,6 +61,7 @@ html, body{
 }
 
 .header_logo {
+    display: block;
 padding-right: 70px;
 
 }
@@ -139,7 +140,6 @@ height: 105px;
 }
 
 .align-text-center{
-    min-width: 1280px;
     color: #FFF;
     text-align: center;
     font-family: Raleway;
@@ -168,7 +168,6 @@ height: 105px;
     z-index: 1;
     padding-top: 12px;
     margin-left: 60px;
-    z-index: 1;
     
 }
 .letter-spacing-extended{
@@ -214,7 +213,7 @@ height: 105px;
     text-transform: uppercase;
     z-index: 1;
     padding-top: 15px;
-    padding-bottom: 59px;
+    padding-bottom: 60px;
     padding-right: 78px;
     word-spacing: 18px;
 
@@ -348,12 +347,12 @@ height: 105px;
     line-height: normal;
     margin-left: 90px;
     text-decoration: none;
-    border-bottom: 1px solid black
+    border-bottom: 1px solid black;
 }
 
 .about {
-    width: 1340px;
-    height: 487px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .about__column {
@@ -366,7 +365,6 @@ height: 105px;
     width: 430px;
     height: 240px;
     margin-bottom: 248px;
-    margin-left: 50px;
     padding: 0px 95px;
     grid-row-start: 1;
     grid-row-end: 1;
@@ -402,43 +400,49 @@ height: 105px;
     white-space: nowrap;
     grid-column-start: 2;
     grid-row-start: 1;
+    margin-bottom: 80px;
+    
 }
 
-.about__text_one {
+.about__text{
     color: #000;
     font-family: Raleway, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding-top: 100px;
-    padding-left: 20px;
+    padding-left: 25px;
+    display: flex;
+    padding-top: 22px;
+    
+    
 }
 
-.about__text_two {
-    color: #000;
-    font-family: Raleway, sans-serif;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    padding-left: 20px;
-    padding-top: 21px;
-}
 .footer {
     display: flex;
-    width: 1340px;
-    height: 97px;
     margin: 182px 50px 90px 50px;
     justify-content: space-between;
+    
 }
-
+.footer__menu-contact{
+color: #000;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24.3px; /* 135% */
+}
 .footer__menu {
     display: flex;
 }
-
+.contact{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 1px;
+}
 .footer__menu-list {
     list-style-type: none;
+    
 }
 
 .footer__menu-list-item {
@@ -461,8 +465,7 @@ height: 105px;
 }
 
 .footer__social-list {
+    max-width: 240px;
     display: flex;
-    width: 240px;
-    height: 48px;
     gap: 48px;
 }
