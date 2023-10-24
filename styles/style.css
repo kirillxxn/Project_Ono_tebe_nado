@@ -3,11 +3,10 @@
     padding: 0; 
 } 
 
-html, body{ 
+html, body { 
     max-width: 1440px;
     margin: 0 auto; 
     padding: 0; 
-
 } 
 .header {
     margin: 92px auto;
@@ -30,8 +29,6 @@ html, body{
     gap: 30px;
     white-space: nowrap;
     padding-left:50px;
-    
-    
 }
 
 .header__link_active {
@@ -55,13 +52,12 @@ html, body{
 
 .header_logo {
     display: block;
-padding-right: 70px;
-
+    padding-right: 70px;
 }
 
 .header__logo-image {
     width: 148px;
-height: 105px;
+    height: 105px;
 }
 
 .info_menu {
@@ -90,8 +86,6 @@ height: 105px;
     font-weight: 400;
     line-height: 24.3px; 
     white-space: nowrap;
-    
-
 }
 .cover {
     background-image: url(../images/cover.jpg);
@@ -100,8 +94,6 @@ height: 105px;
     background-repeat: no-repeat;
     z-index: 1;
     position: relative;
-    
-
 }
      .overlay {
     background-color: rgb(0 0 0 / 0.6);
@@ -114,15 +106,12 @@ height: 105px;
     display: flex;
     flex-direction: column;
     align-items: center;
-     padding: 165px 50px 135px; 
-     
-    
-    
+    padding: 165px 50px 135px; 
 }
-.aligned-text{
+.aligned-text {
     min-width: 1340px;
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -132,10 +121,10 @@ height: 105px;
     z-index: 1;
 }
 
-.align-text-center{
+.align-text-center {
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -144,14 +133,12 @@ height: 105px;
     text-transform: uppercase;
     z-index: 1;
     padding-top: 12px;
-    
-
 }
-.align-text-right{
+.align-text-right {
     min-width: 1340px;
     color: #FFF;
     text-align: right;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -161,38 +148,31 @@ height: 105px;
     z-index: 1;
     padding-top: 12px;
     margin-left: 60px;
-    
 }
-.letter-spacing-extended{
+.letter-spacing-extended {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
     line-height: 115%;
     letter-spacing: 60px;
     text-transform: uppercase;
-    
-    }
-    .no-letter-spacing{
+}
+    .no-letter-spacing {
         color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
     line-height: 100%;
     text-transform: uppercase;
-    
-    }
+}
 
 .cover__description {
     display: flex;
     justify-content: flex-end;
-    
-    
-    
-   
-   
+ 
 }
 
 .cover__description-text {
@@ -209,9 +189,6 @@ height: 105px;
     padding-bottom: 60px;
     padding-right: 78px;
     word-spacing: 18px;
-
-    
-    
 }
 
 .bet-button {
@@ -228,8 +205,7 @@ height: 105px;
     line-height: normal;
     text-transform: uppercase;
     z-index: 1;
-    margin-right: 50px;
-    
+    margin-right: 50px;   
 }
 
 .lots {
@@ -262,6 +238,7 @@ height: 105px;
 .card-link{
     text-decoration: none;
 }
+
 .card__title {
     color: #FFF;
     font-family: Raleway, sans-serif;
@@ -304,6 +281,7 @@ height: 105px;
     z-index: 1;
     margin-bottom: 30px;
 }
+
 .card_type_book {
     display:flex;
     flex-direction: column;
@@ -315,7 +293,6 @@ height: 105px;
     background-size: cover;
     position: relative;
     z-index: 1;
-    
 }
 
 .card_type_picture {
@@ -393,11 +370,10 @@ height: 105px;
     white-space: nowrap;
     grid-column-start: 2;
     grid-row-start: 1;
-    margin-bottom: 80px;
-    
+    margin-bottom: 80px; 
 }
 
-.about__text{
+.about__text {
     color: #000;
     font-family: Raleway, sans-serif;
     font-size: 20px;
@@ -407,32 +383,32 @@ height: 105px;
     padding-left: 25px;
     display: flex;
     padding-top: 22px;
-    
-    
 }
 
 .footer {
     display: flex;
     margin: 182px 50px 90px 50px;
     justify-content: space-between;
-    
 }
 .footer__menu-contact{
-color: #000;
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 24.3px; /* 135% */
+    color: #000;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.3px;
 }
+
 .footer__menu {
     display: flex;
 }
+
 .contact{
     text-decoration: underline;
     text-underline-offset: 4px;
     text-decoration-thickness: 1px;
 }
+
 .footer__menu-list {
     list-style-type: none;
     
@@ -457,6 +433,7 @@ line-height: 24.3px; /* 135% */
     text-decoration: underline;
     text-underline-offset: 3px;
 }
+
 .footer__social-list-item{
     list-style-type: none;
     max-width: 248px;
