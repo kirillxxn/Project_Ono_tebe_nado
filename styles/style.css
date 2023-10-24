@@ -239,7 +239,10 @@
     padding-left: 90px;
     margin-bottom: 27px;
   }
-  
+  .lots__card-list-item{
+    width: 430px;
+    height: 450px;
+  }
   .lots__card-list {
     display: flex;
     list-style-type: none;
@@ -251,6 +254,7 @@
   
   .card-link {
     text-decoration: none;
+    width: 100%;
   }
   
   .card__title {
@@ -266,6 +270,7 @@
     text-transform: uppercase;
     padding-top: 50px;
     padding-left: 40px;
+    padding-right: 40px;
   }
   
   .card__text {
