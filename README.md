@@ -1,6 +1,6 @@
 # Project_Ono-Tebe-Nado
 ## Проект "Оно тебе надо"
-### git@github.com:kirillxxn/ono-tebe-nado.git
+### git@github.com:kirillxxn/Project_Ono_tebe_nado.git
 #### ***Ссылка на репозиторий проекта :arrow_right: https://github.com/kirillxxn/Project_Ono_tebe_nado*** 
 [![Шапка](https://imageup.ru/img86/4624353/snimok-ekrana-100.png)](https://imageup.ru/img86/4624353/snimok-ekrana-100.png.html)
 [![Содержимое](https://imageup.ru/img156/4624354/snimok-ekrana-101.png)](https://imageup.ru/img156/4624354/snimok-ekrana-101.png.html)
