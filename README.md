@@ -5,11 +5,13 @@
 _____
 :white_circle: ***Ссылка на опубликованный проект в GitHub-Pages :arrow_right: https://kirillxxn.github.io/Project_Ono_tebe_nado/***
 _____
-[![Шапка](https://imageup.ru/img86/4624353/snimok-ekrana-100.png)](https://imageup.ru/img86/4624353/snimok-ekrana-100.png.html)
+[![](https://imageup.ru/img256/4707183/snimok-ekrana-2024-01-21-125020.png)](https://imageup.ru/img256/4707183/snimok-ekrana-2024-01-21-125020.png.html)
 _____
-[![Содержимое](https://imageup.ru/img156/4624354/snimok-ekrana-101.png)](https://imageup.ru/img156/4624354/snimok-ekrana-101.png.html)
+[![](https://imageup.ru/img133/4707184/snimok-ekrana-2024-01-21-125028.jpg)](https://imageup.ru/img133/4707184/snimok-ekrana-2024-01-21-125028.jpg.html)
 _____
-[![Лоты](https://imageup.ru/img154/4624356/snimok-ekrana-102.png)](https://imageup.ru/img154/4624356/snimok-ekrana-102.png.html)
+[![](https://imageup.ru/img264/4707185/snimok-ekrana-2024-01-21-125036.jpg)](https://imageup.ru/img264/4707185/snimok-ekrana-2024-01-21-125036.jpg.html)
 _____
-[![Футер](https://imageup.ru/img212/4624357/snimok-ekrana-103.png)](https://imageup.ru/img212/4624357/snimok-ekrana-103.png.html)
+[![](https://imageup.ru/img228/4707186/snimok-ekrana-2024-01-21-125046.png)](https://imageup.ru/img228/4707186/snimok-ekrana-2024-01-21-125046.png.html)
+_____
+[![](https://imageup.ru/img164/4707187/snimok-ekrana-2024-01-21-125053.png)](https://imageup.ru/img164/4707187/snimok-ekrana-2024-01-21-125053.png.html)
 _____
